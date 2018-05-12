@@ -1,0 +1,28 @@
+_repo: In-het-bergland-van-Tripolis--13-De-Aarde-en-haar-Volken-1906_14210
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mathuisieulx, A. de
+    alias: Méhier de Mathuisieulx, Henri
+    birthdate: 1860
+    gutenberg_agent_id: '5408'
+    url: http://www.gutenberg.org/2009/agents/5408
+description: 'Probably derived from: À travers la Tripolitaine by M. de Mathuisieulx,
+  from Tour du monde, 1902, p. 553-624.'
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2004-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14210'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Tripoli (Libya) -- Description and travel'
+title: "In het bergland van Tripolis\r\nDe Aarde en haar Volken, 1906"
+url: http://www.gutenberg.org/ebooks/14210
